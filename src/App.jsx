@@ -17,7 +17,7 @@ export default function App() {
   return (
     <div className="">
       <Navbar />
-      <section className="bg-white px-[40px] py-[24px]">
+      <section className="bg-white px-[42px] py-[24px]">
         {...travelCards}
       </section> 
     </div>
